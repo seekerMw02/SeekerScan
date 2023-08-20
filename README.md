@@ -9,4 +9,4 @@ SeekerScan is a TCP port scanner that is very easy to use and supports special s
 
 # Special Announcement
 
-SeekerScan is free to download and use, but please obey the law. You must treat any illegal behavior with caution, and I will not be responsible for it.
+SeekerScan is closed source but free to download and use, please obey the law. You must treat any illegal behavior with caution, and I will not be responsible for it.
