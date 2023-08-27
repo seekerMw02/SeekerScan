@@ -12,12 +12,12 @@ SeekerScan is a scanner that is very easy to use and supports special strategies
 
 I hope I am lucky enough to list your amazing name here
 
-覃兄，易总，清清，梧桐
-lyman(icon)
-小白,hvuijhj
-三边行安全团队
-Max 'Libra' Kersten
-Paula Januszkiewicz
+覃兄，易总，清清，梧桐  
+lyman(icon)  
+小白,hvuijhj  
+三边行安全团队  
+Max 'Libra' Kersten  
+Paula Januszkiewicz  
 
 # Special Announcement
 
