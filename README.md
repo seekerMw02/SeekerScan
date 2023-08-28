@@ -16,8 +16,6 @@ I hope I am lucky enough to list your amazing name here
 lyman(icon)  
 小白,hvuijhj  
 三边行安全团队  
-Max 'Libra' Kersten  
-Paula Januszkiewicz  
 
 # Special Announcement
 
