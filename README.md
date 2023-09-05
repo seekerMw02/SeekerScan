@@ -7,6 +7,11 @@
 
 SeekerScan is a scanner that is very easy to use and supports special strategies, user options, a history report,and so on. Give it a try and have fun. Any suggestions should be sent to seekerMW01@proton.me.  
 
+Alpha v0.6  
+<div align="center">
+  <img src="https://github.com/seekerMw02/SeekerScan/blob/img-storage/0905.png">
+</div>
+
 
 # Special Thanks To  
 
