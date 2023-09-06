@@ -23,6 +23,6 @@ lyman(icon)
 三边行安全团队  
 xni220  
 
-# Special Announcement
+# Disclaimer
 
-SeekerScan is closed source but free to download and use, please obey the law. You must treat any illegal behavior with caution, and I will not be responsible for it.
+SeekerScan is closed source for educational purposes only but free to download and use; please obey the law. You must treat any illegal behavior with caution, and I am not responsible for any actions you may take with it.
